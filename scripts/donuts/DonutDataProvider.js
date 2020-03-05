@@ -21,3 +21,8 @@ const donuts = [
         topping: "Red Velvet cake crumbs"
     }
 ]
+
+// Returns a copy of the donut array
+export const useDonuts = () => {
+    return donuts.slice();
+}
