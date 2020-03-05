@@ -3,7 +3,5 @@
 */
 
 export const DonutHTML = (donutObject) => {
-    return `
-    <
-    `
+    return `I'm Donut.js!!`
 }
